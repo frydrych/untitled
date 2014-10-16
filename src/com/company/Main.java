@@ -10,4 +10,5 @@ public class Main {
         Integer someInteger = integerBox.get();
         System.out.println(someInteger);
     }
+    System.out.println("Hi");
 }
